@@ -1,0 +1,19 @@
+{
+  "educational_examples": {
+    "en": {
+      "math": "Mathematics is the study of numbers, patterns, and logical reasoning.",
+      "science": "Science helps us understand how the world works.",
+      "general": "Learning is a wonderful journey of discovery!"
+    },
+    "hi": {
+      "math": "गणित संख्याओं, पैटर्न और तार्किक तर्क का अध्ययन है।",
+      "science": "विज्ञान दुनिया को समझने में मदद करता है।",
+      "general": "सीखना खोज की एक अद्भुत यात्रा है!"
+    },
+    "te": {
+      "math": "గణితం సంఖ్యలు, నమూనాలు మరియు తార్కిక తర్కం అధ్యయనం.",
+      "science": "శాస్త్రం ప్రపంచాన్ని అర్థం చేసుకోవడంలో సహాయపడుతుంది.",
+      "general": "నేర్చుకోవడం అన్వేషణ యొక్క అద్భుతమైన ప్రయాణం!"
+    }
+  }
+}
