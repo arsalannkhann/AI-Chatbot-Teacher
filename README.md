@@ -5,7 +5,7 @@ A simple AI-powered chatbot that acts like a teacher, supporting English, Hindi,
 Built with Python, Streamlit, and Groq API for fast, reliable language model inference.
 
 ---
-Streamlit : 
+**Streamlit:**
 ```
 https://ai-chatbot-teacher.streamlit.app/ 
 ```
